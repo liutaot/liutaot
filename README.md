@@ -1,4 +1,8 @@
-### Hi there 👋,I'm LiuTao,A backend developer.
+### Hi there 👋,I'm Liu Tao,A backend developer.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=liutaot&show_icons=true&include_all_commits&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liutaot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **liutaot/liutaot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
